@@ -17,7 +17,7 @@ I dream of becoming a **senior developer** one day — and I'm working hard, one
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python (main), HTML/CSS (basic)
+- **Languages:** Python (main), C/C++ (basic)
 - **Interests:** AI development, creative problem solving
 - **Tools:** VS Code, Git & GitHub, Termux
 
